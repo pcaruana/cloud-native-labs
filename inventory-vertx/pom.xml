@@ -13,7 +13,7 @@
     <vertx.version>3.6.3.redhat-00009</vertx.version>
     <vertx-maven-plugin.version>1.0.15</vertx-maven-plugin.version>
     <vertx.verticle>com.redhat.cloudnative.inventory.InventoryVerticle</vertx.verticle>
-    <slf4j.version>1.7.21</slf4j.version>
+    <slf4j.version>1.7.36</slf4j.version>
     <version.thorntail>2.2.0.Final-redhat-00021</version.thorntail>
     <fabric8.version>3.0.12</fabric8.version>
     <fabric8.maven.plugin.version>3.5.40</fabric8.maven.plugin.version>
